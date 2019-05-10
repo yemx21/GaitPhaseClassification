@@ -32,8 +32,7 @@
 .lib
 .pdb
 .sln
-.vcxproj
-.vcxproj.filters
-.vcxproj.users
-.filters
-.user
+
+/NativeAPI/*.vcxproj
+/NativeAPI/*.vcxproj.filters
+/NativeAPI/*.vcxproj.users
