@@ -33,6 +33,6 @@
 .pdb
 .sln
 
-/NativeAPI/*.vcxproj
-/NativeAPI/*.vcxproj.filters
-/NativeAPI/*.vcxproj.users
+/NativeAPI/NativeAPI.vcxproj
+/NativeAPI/NativeAPI.vcxproj.filters
+/NativeAPI/NativeAPI.vcxproj.users
